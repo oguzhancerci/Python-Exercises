@@ -1,1 +1,1 @@
-# deneme
+# Python Exercises
