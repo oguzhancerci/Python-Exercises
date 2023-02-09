@@ -11,3 +11,5 @@ def alternating_with_enumerate(string):
 
 
 alternating_with_enumerate("hi my name is Oguzhan and i am learning Python")
+
+# Output: Hi mY NaMe iS OgUzHaN AnD I Am lEaRnInG PyThOn
