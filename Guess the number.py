@@ -26,3 +26,17 @@ def guess_the_number():
             print(f"You don't have any life points. The number was {number}")
 
 guess_the_number()
+
+
+# Expected Output 
+
+# How many life point you want to have? 4
+# Input your guess 2
+# Higher
+# Input your guess 4
+# Higher
+# Input your guess 6
+# Higher
+# Input your guess 4
+# Higher
+# You don't have any life points. The number was 9
