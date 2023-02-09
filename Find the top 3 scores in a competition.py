@@ -27,3 +27,16 @@ def contest():
 
 
 contest()
+
+# Input: 3
+
+# Output : 
+
+# Contender's Scores: 
+# 64
+# 38
+# 21
+# ###############
+# First contender's score is: 64
+# Second contender's score is: 38
+# Third contender's score is: 21
