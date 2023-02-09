@@ -12,3 +12,12 @@ if number > 1:
 
 else:
     print(number, "is not a prime number")
+    
+    
+    
+    
+# Input: 
+# Input a number 4
+
+# Output:
+# 4 is not a prime number
